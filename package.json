@@ -1,0 +1,23 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "empty",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://6d0d954443c93f5a42541c3a16d2018aec205645@github.com/sitounis/node.git"
+  },
+  "author": "spiros sitounis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sitounis/node/issues"
+  },
+  "homepage": "https://github.com/sitounis/node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
